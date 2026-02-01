@@ -1,1 +1,1 @@
-# curso-imers-o-dados-python-alura
+# curso-imersao-dados-python-alura
